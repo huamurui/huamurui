@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![知乎](https://stats.justsong.cn/api/zhihu?username=ke-ai-wu-li-de-nan-hai-zi)
+![bilibili](https://stats.justsong.cn/api/bilibili/?id=144672037)
+![leetcode](https://stats.justsong.cn/api/leetcode?username=yun-tai-f&cn=true)
 ![huamurui's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=huamurui&show_icons=true&count_private=true&layout=compact&hide_border=true&langs_count=10)
 
 <!--
