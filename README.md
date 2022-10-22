@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![huamurui's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=huamurui&show_icons=true&count_private=true&theme=radical)
+
 <!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=huamurui&show_icons=true&theme=radical">
 
