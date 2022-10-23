@@ -11,6 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
+        env:
+             # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secre
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # following flags are required, only if this is not on
