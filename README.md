@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 -->
 
 
-![:name](https://count.getloli.com/get/@huamurui
+![huamurui](https://count.getloli.com/get/@huamurui)
