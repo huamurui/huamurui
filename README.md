@@ -4,6 +4,10 @@
 [![知乎](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fke-ai-wu-li-de-nan-hai-zi&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://www.zhihu.com/people/ke-ai-wu-li-de-nan-hai-zi)
 
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 ![知乎](https://stats.justsong.cn/api/zhihu?username=ke-ai-wu-li-de-nan-hai-zi)
 ![bilibili](https://stats.justsong.cn/api/bilibili/?id=144672037)
