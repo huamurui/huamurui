@@ -6,6 +6,17 @@
 
 
 <!--START_SECTION:waka-->
+
+```text
+From: 22 October 2022 - To: 23 October 2022
+
+Total Time: 16 mins
+
+Vue.js       14 mins         >>>>>>>>>>>>>>>>>>>>>>>--   90.08 %
+JSON         0 secs          >------------------------   05.35 %
+Other        0 secs          >------------------------   03.91 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
