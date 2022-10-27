@@ -8,16 +8,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 October 2022 - To: 24 October 2022
+From: 22 October 2022 - To: 25 October 2022
 
-Total Time: 2 hrs 36 mins
+Total Time: 5 hrs 2 mins
 
-JavaScript       27 mins         >>>>---------------------   17.89 %
-TypeScript       25 mins         >>>>---------------------   16.37 %
-Java             21 mins         >>>----------------------   13.50 %
-GitIgnore file   19 mins         >>>----------------------   12.18 %
-Vue.js           14 mins         >>-----------------------   09.37 %
-JSON             14 mins         >>-----------------------   09.10 %
+Python           2 hrs 26 mins   >>>>>>>>>>>>-------------   48.27 %
+JavaScript       27 mins         >>-----------------------   09.25 %
+TypeScript       25 mins         >>-----------------------   08.47 %
+Java             21 mins         >>-----------------------   06.98 %
+GitIgnore file   19 mins         >>-----------------------   06.30 %
+Vue.js           14 mins         >------------------------   04.85 %
 ```
 
 <!--END_SECTION:waka-->
