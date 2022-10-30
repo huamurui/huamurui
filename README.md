@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/huamurui/huamurui/main/assets/github-contribution-grid-snake.svg)
+![huamurui](https://raw.githubusercontent.com/huamurui/huamurui/main/assets/github-contribution-grid-snake.svg)
 ![huamurui](https://count.getloli.com/get/@huamurui)
