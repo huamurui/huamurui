@@ -1,5 +1,5 @@
 ### Hi there 👋
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=huamurui)
+<!--  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=huamurui) -->
 
 <!-- [![知乎](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fke-ai-wu-li-de-nan-hai-zi&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://www.zhihu.com/people/ke-ai-wu-li-de-nan-hai-zi)
  -->
@@ -85,4 +85,4 @@ Here are some ideas to get you started:
 -->
 
 ![huamurui](https://raw.githubusercontent.com/huamurui/huamurui/main/assets/github-contribution-grid-snake.svg)
-![huamurui](https://count.getloli.com/get/@huamurui)
+<!-- ![huamurui](https://count.getloli.com/get/@huamurui) -->
