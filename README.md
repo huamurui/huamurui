@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <3207966845@qq.com>
 - ⚡ Fun fact: I'm a a a ... i don't know what i am
 - 🌱 blog(web tech & nonsense)(zh): <https://huamurui.github.io/>
-- 🌱 some paintings: <https://huamurui.github.io/html-s/#/virtual-waterfall>
-
+- 🌱 some photos: <https://huamurui.github.io/photo-viewer/>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
