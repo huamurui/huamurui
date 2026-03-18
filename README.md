@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 阿巴阿巴...
 - 💬 Ask me about `how to write html` [→ some html ←](https://huamurui.github.io/html-s/)
-- 📫 How to reach me: <3207966845@qq.com>
+- 📫 How to reach me: <3207966845@qq.com> or <t.me/huamumo>
 - ⚡ Fun fact: I'm a a a ... i don't know what i am
 - 🌱 blog(web tech & nonsense)(zh): <https://huamurui.github.io/>
 - 🌱 some photos: <https://huamurui.github.io/photo-viewer/>
